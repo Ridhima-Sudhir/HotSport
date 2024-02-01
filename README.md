@@ -6,4 +6,5 @@ An Empathy Map was created to make sure all the users points were taken into con
 A LoFi Prototype was drafted on paper and a few more changes were made.
 Finally a Hifi Prototype was designed using Adobe XD and Heuristic Evaluation was performed on our final prototype. <br>
 We presented the flow of our Hifi prototype using the Desktop Preview function of Adobe XD. <br>
-The Hifi prototype was designed by me, with a few inputs from my teammates.
+The Hifi prototype was designed by me, with a few inputs from my teammates. <br>
+Link to my portfolio for this case study https://uxfol.io/p/efe00748/023d826c
